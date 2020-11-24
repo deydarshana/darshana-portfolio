@@ -2,7 +2,7 @@ import React from 'react';
 // import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
 // import '../node_modules/bootstrap/dist/js/bootstrap.bundle';
 import '../src/house/css/styles.css';
-import '../src/house/js/main.js';
+
 import Home from './components/Home';
 import Contact from './components/Contact';
 import About from './components/About';
