@@ -16,7 +16,7 @@ const Navbar1 = () => {
                         <li class="nav__item"><a href="#skills" class="nav__link">Skills</a></li>
                         <li class="nav__item"><a href="#work" class="nav__link">Projects</a></li>
                         <li class="nav__item"><a href="#contact" class="nav__link">Contact</a></li>
-                        <li class="nav__item"><a href="https://drive.google.com/file/d/1yh98nwxNp3pooKRTyzjSFzEi119vV8h_/view?usp=sharing" target="_blank" class="nav__link">Resume</a></li>
+                        <li class="nav__item"><a href="https://drive.google.com/file/d/1tRRg3DTtlGgXTSa66ZYRIbWkWKpcNjaH/view?usp=sharing" target="_blank" class="nav__link">Resume</a></li>
                     </ul>
                 </div>
 
